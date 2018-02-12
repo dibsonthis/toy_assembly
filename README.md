@@ -1,5 +1,5 @@
 # toy_assembly
-A toy "assembly" language built in Python with simple memory allocation commands that run on mock memory and mock registers. This is a line by line language and always begins with an action word. Memory addresses are represented by rowxcol eg. 0x0 for the first bit. This language is not a serious language, it's just a bit of fun!
+A toy "assembly" language built in Python with simple memory allocation commands that run on mock memory and mock registers. This is a line by line language and always begins with an action word. Memory addresses are represented by rowxcol eg. 0x0 for the first bit. This language is not a serious language and only serves for a bit of learning and fun!
 
 # Preview
 
